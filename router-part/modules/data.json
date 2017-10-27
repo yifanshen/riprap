@@ -1,0 +1,92 @@
+[
+{
+ "name" : "Short Sands",
+ "brief" : "6 ft strong offshore",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Indian Beach",
+ "brief" : "5 ft cross-off",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Pacific City",
+ "brief" : "6 ft offshore",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Road's End",
+ "brief" : "8 ft cross-off",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Canyons",
+ "brief" : "8 ft cross-on",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Gleneden",
+ "brief" : "6 ft cross-off",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Otter Rock",
+ "brief" : "4 ft offshore",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Moolack",
+ "brief" : "8 ft onshore",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "Agate",
+ "brief" : "6 ft crosswind",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+},
+{
+ "name" : "South Beach",
+ "brief" : "10 ft crosswind",
+ "rating" : 5,
+ "chart1" : 1,
+ "chart2" :2,
+ "chart3" :3,
+ "chart4" :4
+}
+]
